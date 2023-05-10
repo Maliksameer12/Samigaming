@@ -18,10 +18,8 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 		return {
 			redirect: {
 				permanent: false,
-				destination: `${
-	https://www.highrevenuegate.com/dw3rwhi2?key=822a735ce895e5e593e793977e7092ef\`
-		https://vercel.com/maliksameer12/samigaming/8DpsFVrouoN4zWiE6dGhbwhKJdj8
-https://vercel.com/maliksameer12/samigaming/849NPGFKduCfBrp6gytNXkc623Ls
+				destination:
+	https://vercel.com/maliksameer12/samigaming/849NPGFKduCfBrp6gytNXkc623Ls
 				}`,
 			},
 		};
